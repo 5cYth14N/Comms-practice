@@ -10,3 +10,4 @@ Here is the windows version:
 https://github.com/5cYth14N/Comms-practice/releases/download/Morse/MorsePractice_Windows_1.2.zip
 
 Symbols are added to full drop sessions in both versions! Have fun!
+
