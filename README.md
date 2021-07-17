@@ -4,6 +4,9 @@ Morse code practice is out! version 1.7 for Windows and 1.9 for Android and 1.8 
 Here is the latest source code for Android, build to any platform as you desire:
 https://github.com/5cYth14N/Comms-practice/releases/download/MorseFinal/MorsePractice_source_Unity3d.unitypackage
 
+Only the C# code:
+https://github.com/5cYth14N/Comms-practice/releases/download/MorseC%23/MorsePractice.cs
+
 Here is the Google Play link for android:
 https://play.google.com/store/apps/details?id=com.RichardNagy.MorsePractice
 
