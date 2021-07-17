@@ -1,5 +1,5 @@
 # Comms-practice
-Morse code practice is out! version 1.7 for Windows and 1.8 for Android and iOS.
+Morse code practice is out! version 1.7 for Windows and 1.9 for Android and 1.8 for iOS.
 
 
 
